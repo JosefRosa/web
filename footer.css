@@ -1,0 +1,18 @@
+footer{
+    text-align: center;
+    margin-top: 19%;
+    background-color: orangered;
+    display: block;        
+    text-align: center;
+    filter: brightness(80%);
+  }
+  
+  footer h3 {
+    color: black;
+  }
+  
+  footer p {
+    color: black;
+    display: inline-block;
+
+  }
