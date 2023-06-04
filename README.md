@@ -9,3 +9,4 @@ Na webu je po pravé straně vidět tabulka s nazvy cviků a triků když klikne
 Web je dělán ve třech css souborech, protože mi to přišlo přehlednější
 
 
+![Snímek obrazovky 2023-06-04 174841](https://github.com/JosefRosa/web/assets/76937639/56b6f113-6dd1-475a-9543-f463999ee084)
