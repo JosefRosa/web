@@ -1,46 +1,98 @@
-header{
-    width: 100%;
-    padding: 0;
+*{
     margin: 0;
+    padding: 0;
 }
-h1{ text-align: center;
-    background-color: orangered;
-    text-decoration: underline;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+h1{
+    
+}
+header{
+    text-align: center;
     margin: 0;
-    border: 0;
     padding: 0;
-    filter: brightness(80%);
+    
+    
+
 }
 body{
-    background-color: black;
-}
+    position: relative;
+    background-color: rgb(197, 62, 12);
+    z-index: 999;
 
+}
 nav{
-    border-style: solid;
-    border-color: orangered;
+    text-align: center;
+
+
+}
+nav a{
+    text-transform: uppercase;
+    padding: 15px;
+    text-decoration: none;
+
+}
+li{
     float: left;
 }
 ul{
     list-style-type: none;
-    padding: 0;
     margin: 0;
-    width: 10px 0px;
-    background-color: black;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
-li a{ 
+li a{
     display: block;
-    width: 200px;
-    background-color: black;
     color: orangered;
-    padding: 20px 16px;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
 }
 li a:hover{
-    background-color:red ;
-    color: darkgray;
+    background-color: #111;
+}
+h3{
+    
+    font-size: large;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    color:orangered;
+    padding: 14px 16px;
+}
+aside{
+    position: absolute;
+    width: 300px;
+    padding: 0px 10px;
+    
+    
 
 }
-.right{color: aliceblue;
+.sidebar li{
+    float: inherit;
+    
+}
+.sidebar a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+
+section{
+   text-align: center
+
+}
+p{
+    border: #111;
+    border-style: solid;
+    margin-left:30% ;
+    float: left;
     margin-right: 30%;
+    height: 600px;    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif   ;
+    background-color: #333;
+    color: orangered;
+}
+video{
+    
+    height: 400px;
+
 }
