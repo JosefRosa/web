@@ -12,6 +12,6 @@ Na webu je po pravé straně vidět sidebar s nazvy cviků a triků. Navrcholu s
 ## Design
 Web je dělán v html a css
 
-![web](https://github.com/JosefRosa/web/assets/76937639/b8c4c1dc-58dd-48f4-8308-79358f6ce123)
+
 
 
